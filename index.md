@@ -10,4 +10,4 @@ Dependecies:
 
 ***
 
-Simple bot. (Invite Here)[https://discordapp.com/oauth2/authorize?client_id=334347178158063616&scope=bot&permissions=8]
+Simple bot. [Invite Here](https://discordapp.com/oauth2/authorize?client_id=334347178158063616&scope=bot&permissions=8)
